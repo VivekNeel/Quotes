@@ -1,10 +1,25 @@
 {
-  "quotes": [
+  "version": "1.0.0",
+  "categories": [
     {
-      "name": "vivek"
+      "name": "father and son",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/father-and-son-quotes-1556202948.jpg?crop=0.644xw:0.966xh;0.151xw,0.0240xh&resize=640:*"
     },
     {
-      "name": "kumar"
+      "name": "Life quotes",
+      "image": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/18/06/2048x1024/landscape-1518202521-rose-tunnel.jpg?resize=480:*"
+    }
+  ],
+  "quotes": [
+    {
+      "father and son": {
+        "title": "Ken Norton",
+        "desc": "Of all the titles I’ve been privileged to have, 'Dad' has always been the best."
+      },
+      "Life quotes": {
+        "title": "Dolly Parton",
+        "desc": "If you don't like the road you're walking, start paving another one."
+      }
     }
   ]
 }
