@@ -7,6 +7,72 @@
                 {
                     "name": "Happiness",
                     "id": "happiness"
+                },
+                {
+                    "name": "Positivity",
+                    "id": "positivity"
+                },
+                {
+                    "name": "Success",
+                    "id": "success"
+                },
+                {
+                    "name": "Focus",
+                    "id": "focus"
+                },
+                {
+                    "name": "Money",
+                    "id": "money"
+                },
+                {
+                    "name": "Time",
+                    "id": "time"
+                },
+                {
+                    "name": "Goals",
+                    "id": "goals"
+                }
+            ]
+        },
+        {
+            "name": "Inspiration",
+            "values": [
+                {
+                    "name": "Freedom",
+                    "id": "freedom"
+                },
+                {
+                    "name": "Passion",
+                    "id": "passion"
+                },
+                {
+                    "name": "Success",
+                    "id": "success"
+                }
+            ]
+        },
+        {
+            "name": "Peace",
+            "values": [
+                {
+                    "name": "Money",
+                    "id": "money"
+                },
+                {
+                    "name": "Hope",
+                    "id": "hope"
+                },
+                {
+                    "name": "Patience",
+                    "id": "patience"
+                },
+                {
+                    "name": "Ego",
+                    "id": "ego"
+                },
+                {
+                    "name": "Health",
+                    "id": "health"
                 }
             ]
         },
@@ -14,8 +80,94 @@
             "name": "Love",
             "values": [
                 {
+                    "name": "Happiness",
+                    "id": "hapiness"
+                },
+                {
                     "name": "Trust",
                     "id": "trust"
+                },
+                {
+                    "name": "Dream",
+                    "id": "dream"
+                },
+                {
+                    "name": "Dating",
+                    "id": "dating"
+                },
+                {
+                    "name": "Marriage",
+                    "id": "marriage"
+                },
+                {
+                    "name": "Friendship",
+                    "id": "friendship"
+                }
+            ]
+        },
+        {
+            "name": "Health and Fitness",
+            "values": [
+                {
+                    "name": "Focus",
+                    "id": "focus"
+                },
+                {
+                    "name": "Pain",
+                    "id": "pain"
+                },
+                {
+                    "name": "Success",
+                    "id": "success"
+                },
+                {
+                    "name": "Change",
+                    "id": "change"
+                },
+                {
+                    "name": "Marriage",
+                    "id": "marriage"
+                },
+                {
+                    "name": "Sport",
+                    "id": "sport"
+                },
+                {
+                    "name": "Travel",
+                    "id": "travel"
+                },
+                {
+                    "name": "Health",
+                    "id": "health"
+                }
+            ]
+        },
+        {
+            "name": "Difficult times",
+            "values": [
+                {
+                    "name": "Divorce",
+                    "id": "divorce"
+                },
+                {
+                    "name": "Sadness",
+                    "id": "sadness"
+                },
+                {
+                    "name": "Regret",
+                    "id": "regret"
+                },
+                {
+                    "name": "Pain",
+                    "id": "pain"
+                },
+                {
+                    "name": "Break up",
+                    "id": "breakup"
+                },
+                {
+                    "name": "Depression",
+                    "id": "depression"
                 }
             ]
         }
