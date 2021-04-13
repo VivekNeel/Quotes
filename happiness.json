@@ -1,0 +1,37 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+            "title": "Dolly Parton",
+            "desc": "If you don't like the road you're walking, start paving another one."
+        },
+        {
+            "title": "Dalai Lama",
+            "desc": "The purpose of our lives is to be happy."
+        },
+        {
+            "title": "John Lennon",
+            "desc": "Life is what happens when you’re busy making other plans."
+        },
+        {
+            "title": "Stephen King",
+            "desc": "Get busy living or get busy dying."
+        },
+        {
+            "title": "Albert Einstein",
+            "desc": "If you want to live a happy life, tie it to a goal, not to people or things."
+        },
+        {
+            "title": "Babe Ruth",
+            "desc": "Never let the fear of striking out keep you from playing the game."
+        },
+        {
+            "title": "Will Smith",
+            "desc": "Money and success don’t change people; they merely amplify what is already there."
+        },
+        {
+            "title": "Steve Jobs",
+            "desc": "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking."
+        }
+    ]
+}
