@@ -1,0 +1,93 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+            "title": "Marthe TrolyCurtin",
+            "desc": "Time you enjoy wasting is not wasted time"
+        },
+        {
+            "title": "Anthony G Oettinger",
+            "desc": "Time flies like an arrow, fruit flies like a banana"
+        },
+        {
+            "title": "Roy T Bennett",
+            "desc": "Don't waste your time in anger, regrets, worries and grudges. Life is too short to be unhappy"
+        },
+        {
+            "title": "Antoine de SaintExupry",
+            "desc": "It is the time you have wasted for your rose that makes your rose so important"
+        },
+        {
+            "title": "Dave Eggers",
+            "desc": "Books have a unique way of stopping time in a particular moment and saying Lets not forget this"
+        },
+        {
+            "title": "Dr Seuss",
+            "desc": "How did it get so late so soon?"
+        },
+        {
+            "title": "Paulo Coelho",
+            "desc": "Don't waste your time with explanations. people only hear what they want to hear"
+        },
+        {
+            "title": "Mother Theresa",
+            "desc": "Yesterday is gone, Tomorrow has not yet come. We have only today Let us begin"
+        },
+        {
+            "title": "Oprah Winfrey",
+            "desc": "You can have it all, Just not all at once"
+        },
+        {
+            "title": "Coco Chanel",
+            "desc": "Don't spend time beating on a wall hoping to transform it into a door"
+        },
+        {
+            "title": "Roy T Bennett",
+            "desc": "Time doesn't heal emotional, pain. you need to learn how to let go"
+        },
+        {
+            "title": "Tennessee Williams",
+            "desc": "Time is the longest distance between two places"
+        },
+        {
+            "title": "Cassandra Clare",
+            "desc": "They say time heals all wounds but that presumes the source of the grief is finite"
+        },
+        {
+            "title": "Andy Warhol",
+            "desc": "They always say time changes things but you actually have to change them yourself"
+        },
+        {
+            "title": "Dr Seuss",
+            "desc": "They say I'm old-fashioned and live in the past, but sometimes I think progress progresses too fast"
+        },
+        {
+            "title": "Charles Darwin",
+            "desc": "A man who dares to waste one hour of time has not discovered the value of life"
+        },
+        {
+            "title": "Taylor Swift",
+            "desc": "This is a new year A new beginning And things will change"
+        },
+        {
+            "title": "Cormac McCarthy",
+            "desc": "Scars have the strange power to remind us that our past is real"
+        },
+        {
+            "title": "Haruki Murakami",
+            "desc": "Unfortunately the clock is ticking, the hours are going by, The past increases the future recedes, Possibilities decreasing, regrets mounting"
+        },
+        {
+            "title": "Kurt Vonnegut",
+            "desc": "Here we are trapped in the amber of the moment There is no why"
+        },
+        {
+            "title": "Lao Tzu",
+            "desc": "Time is a created thing To say I don't have time is like saying I don't want to"
+        },
+        {
+            "title": "Albert Einstein",
+            "desc": "Time is an illusion"
+        }
+    ]
+}

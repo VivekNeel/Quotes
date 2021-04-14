@@ -1,0 +1,61 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+            "title": "Friedrich Nietzsche",
+            "desc": "It is not a lack of love but a lack of friendship that makes unhappy marriages"
+        },
+        {
+            "title": "Jane Austen",
+            "desc": "It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife"
+        },
+        {
+            "title": "Jon Krakauer",
+            "desc": "Happiness is only real when shared"
+        },
+        {
+            "title": "Charlotte Bront",
+            "desc": "The trouble is not that I am single and likely to stay single. but that I am lonely and likely to stay lonely"
+        },
+        {
+            "title": "Elizabeth Gilbert",
+            "desc": "To be fully seen by somebody then and be loved anyhow  this is a human offering that can border on miraculous"
+        },
+        {
+            "title": "Khaled Hosseini",
+            "desc": "Marriage can wait education cannot"
+        },
+        {
+            "title": "PG Wodehouse",
+            "desc": "And she's got brains enough for two, which is the exact quantity the girl who marries you will need"
+        },
+        {
+            "title": "Martha Gellhorn",
+            "desc": "I know enough to know that no woman should ever marry a man who hated his mother"
+        },
+        {
+            "title": "Cher",
+            "desc": "The trouble with some women is that they get all excited about nothing  and then marry him"
+        },
+        {
+            "title": "T D Jakes",
+            "desc": "No woman wants to be in submission to a man who isn't in submission to God"
+        },
+        {
+            "title": "Katharine Hepburn",
+            "desc": "Sometimes I wonder if men and women really suit each other Perhaps they should live next door and just visit now and then"
+        },
+        {
+            "title": "Audrey Hepburn",
+            "desc": "If I get married. I want to be very married"
+        },
+        {
+            "title": "Margaret Atwood",
+            "desc": "Longed for him. Got him. Shit!"
+        },
+        {
+            "title": "Mae West",
+            "desc": "Marriage is a fine institution. but Im not ready for an institution"
+        }
+    ]
+}

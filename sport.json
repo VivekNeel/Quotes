@@ -1,0 +1,29 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+            "title": "Vince Lombardi",
+            "desc": "If winning isn't everything why do they keep score?"
+        },
+        {
+            "title": "Amit Ray",
+            "desc": "Everyone has the fire but the champions know when to ignite the spark"
+        },
+        {
+            "title": "KA Mitchell",
+            "desc": "I can't believe I've missed this sport Its all about fingering holes and caressing balls"
+        },
+        {
+            "title": "Steve Waugh",
+            "desc": "The minute you hesitate you are in trouble"
+        },
+        {
+            "title": "Andre Agassi",
+            "desc": "Tennis is the loneliest sport"
+        },
+        {
+            "title": "Ayrton Senna",
+            "desc": "I am not designed to come second or third. I am designed to win"
+        }
+    ]
+}

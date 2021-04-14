@@ -1,0 +1,37 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+            "title": "JRR Tolkien",
+            "desc": "Not all those who wander are lost"
+        },
+        {
+            "title": "St Augustine",
+            "desc": "The world is a book and those who do not travel read only one page"
+        },
+        {
+            "title": "Lao Tzu",
+            "desc": "The journey of a thousand miles begins with a single step"
+        },
+        {
+            "title": "Anita Desai",
+            "desc": "Wherever you go becomes a part of you somehow"
+        },
+        {
+            "title": "Lao Tzu",
+            "desc": "A good traveler has no fixed plans and is not intent on arriving"
+        },
+        {
+            "title": "Rumi JalaludDin",
+            "desc": "Travel brings power and love back into your life"
+        },
+        {
+            "title": "David Mitchell",
+            "desc": "Travel far enough you meet yourself"
+        },
+        {
+            "title": "Derek Walcott",
+            "desc": "I read I travel I become"
+        }
+    ]
+}

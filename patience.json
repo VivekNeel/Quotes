@@ -1,0 +1,61 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+            "title": "AA Milne",
+            "desc": "Rivers know this there is no hurry We shall get there some day"
+        },
+        {
+            "title": "Moliere",
+            "desc": "Trees that are slow to grow bear the best fruit"
+        },
+        {
+            "title": "Benjamin Franklin",
+            "desc": "He that can have patience can have what he will"
+        },
+        {
+            "title": "Geoffrey Chaucer",
+            "desc": "Patience is a conquering virtue"
+        },
+        {
+            "title": "Lewis Carroll",
+            "desc": "No, no! The adventures first explanations take such a dreadful time"
+        },
+        {
+            "title": "Aristotle",
+            "desc": "Patience is bitter but its fruit is sweet"
+        },
+        {
+            "title": "Leo Tolstoy",
+            "desc": "The strongest of all warriors are these two - Time and Patience"
+        },
+        {
+            "title": "Paulo Coelho",
+            "desc": "Why is patience so important Because it makes us pay attention"
+        },
+        {
+            "title": "Neil Gaiman",
+            "desc": "Everybody going to be dead one day just give them time"
+        },
+        {
+            "title": "Shikamaru Nara",
+            "desc": "There's no advantage to hurrying through life"
+        },
+        {
+            "title": "Louisa May Alcott",
+            "desc": "Be worthy love, and love will come"
+        },
+        {
+            "title": "Margaret Thatcher",
+            "desc": "I am extraordinarily patient, provided I get my own way in the end"
+        },
+        {
+            "title": "DH Lawrence",
+            "desc": "She was always waiting, it seemed to be her forte"
+        },
+        {
+            "title": "Elizabeth Taylor",
+            "desc": "It is very strange that the years teach us patience - that the shorter our time the greater our capacity for waiting"
+        }
+    ]
+}

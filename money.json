@@ -1,0 +1,69 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+            "title": "Oscar Wilde",
+            "desc": "Anyone who lives within their means suffers from a lack of imagination"
+        },
+        {
+            "title": "Dorothy Parker",
+            "desc": "If you want to know what God thinks of money just look at the people he gave it to"
+        },
+        {
+            "title": "Oprah Winfrey",
+            "desc": "Everyone wants to ride with you in the limo but what you want is someone who will take the bus with you when the limo breaks down"
+        },
+        {
+            "title": "Benjamin Franklin",
+            "desc": "A Penny Saved is a Penny Earned"
+        },
+        {
+            "title": "Tony DeLiso",
+            "desc": "Keep your best wishes close to your heart and watch what happens"
+        },
+        {
+            "title": "Virginia Woolf",
+            "desc": "A woman must have money and a room of her own if she is to write fiction"
+        },
+        {
+            "title": "Epictetus",
+            "desc": "Wealth consists not in having great possessions, but in having few wants"
+        },
+        {
+            "title": "Anne Herbert",
+            "desc": "Libraries will get you through times of no money better than money will get you through times of no libraries"
+        },
+        {
+            "title": "Groucho Marx",
+            "desc": "While money cant buy happiness, it certainly lets you choose your own form of misery"
+        },
+        {
+            "title": "Will Rogers",
+            "desc": "Too many people spend money they havent earned to buy things they dont want to impress people that they dont like"
+        },
+        {
+            "title": "Albert Einstein",
+            "desc": "The hardest thing in the world to understand is the income tax"
+        },
+        {
+            "title": "Stephen Richards",
+            "desc": "Minds are like flowers they only open when the time is right"
+        },
+        {
+            "title": "Franoise Sagan",
+            "desc": "Money may not buy happiness, but Id rather cry in a Jaguar than on a bus"
+        },
+        {
+            "title": "Stephen Richards",
+            "desc": "The discontent and frustration that you feel is entirely your own creation"
+        },
+        {
+            "title": "Michael Cunningham",
+            "desc": "Beauty is a whore, I like money better"
+        },
+        {
+            "title": "Tony DeLiso",
+            "desc": "Happiness is part of who we are Joy is the feeling"
+        }
+    ]
+}

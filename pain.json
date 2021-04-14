@@ -1,0 +1,61 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+            "title": "John Green",
+            "desc": "The marks humans leave are too often scars"
+        },
+        {
+            "title": "JK Rowling",
+            "desc": "Numbing the pain for a while will make it worse when you finally feel it"
+        },
+        {
+            "title": "Oprah Winfrey",
+            "desc": "Turn your wounds into wisdom"
+        },
+        {
+            "title": "William Goldman",
+            "desc": "Life is pain highness Anyone who says differently is selling something"
+        },
+        {
+            "title": "Laurell K Hamilton",
+            "desc": "There are wounds that never show on the body that are deeper and more hurtful than anything that bleeds"
+        },
+        {
+            "title": "George RR Martin",
+            "desc": "Some old wounds never truly heal and bleed again at the slightest word"
+        },
+        {
+            "title": "Ernest Hemingway",
+            "desc": "The most painful thing is losing yourself in the process of loving someone too much and forgetting that you are special too"
+        },
+        {
+            "title": "Lance Armstrong Sally Jenkins",
+            "desc": "Pain is temporary. Quitting lasts forever"
+        },
+        {
+            "title": "Markus Zusak",
+            "desc": "Imagine smiling after a slap in the face Then think of doing it twentyfour hours a day"
+        },
+        {
+            "title": "Jos N Harris",
+            "desc": "Tears she'd for another person are not a sign of weakness, They are a sign of a pure heart"
+        },
+        {
+            "title": "John Lennon",
+            "desc": "One thing you can't hide - is when youre crippled inside"
+        },
+        {
+            "title": "Roy T Bennett",
+            "desc": "Time doesnt heal emotional pain. you need to learn how to let go"
+        },
+        {
+            "title": "Bob Dylan",
+            "desc": "Behind every beautiful thing, theres some kind of pain"
+        },
+        {
+            "title": "JK Rowling",
+            "desc": "You care so much you feel as though you will bleed to death with the pain of it"
+        }
+    ]
+}

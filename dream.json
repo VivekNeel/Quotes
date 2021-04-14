@@ -1,0 +1,77 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+           "title":"George Carlin",
+           "desc":"Thats why they call it the American Dream because you have to be asleep to believe it"
+        },
+        {
+           "title":"Roy T Bennett",
+           "desc":"You never change your life until you step out of your comfort zone change begins at the end of your comfort zone"
+        },
+        {
+           "title":"Amy Tan",
+           "desc":"We dream to give ourselves hope To stop dreaming  well thats like saying you can never change your fate"
+        },
+        {
+           "title":"Walt Disney",
+           "desc":"All our dreams can come true if we have the courage to pursue them"
+        },
+        {
+           "title":"Elizabeth Barrett Browning",
+           "desc":"Youre something between a dream and a miracle"
+        },
+        {
+           "title":"Joseph Conrad Heart of Darkness",
+           "desc":"We live as we dreamalone"
+        },
+        {
+           "title":"Daphne Du Maurier",
+           "desc":"Last night I dreamt I went to Manderley again"
+        },
+        {
+           "title":"Lewis Carroll",
+           "desc":"Imagination is the only weapon in the war against reality"
+        },
+        {
+           "title":"Harsha Bhogle",
+           "desc":"The moment you put a deadline on your dream it becomes a goal"
+        },
+        {
+           "title":"Roy T Bennett",
+           "desc":"The surest way to make your dreams come true is to live them"
+        },
+        {
+           "title":"Neil Gaiman",
+           "desc":"That which is dreamed can never be lost can never be undreamed"
+        },
+        {
+           "title":"Stephanie Laurens",
+           "desc":"My heart only ever had one thought one want One need Despite all in spite of allAll my heart has ever wanted is you"
+        },
+        {
+           "title":"Martin Luther King Jr",
+           "desc":"No person has the right to rain on your dreams"
+        },
+        {
+           "title":"Victor Hugo",
+           "desc":"There is nothing like a dream to create the future"
+        },
+        {
+           "title":"Roy T Bennett",
+           "desc":"Dreams dont work unless you take action The surest way to make your dreams come true is to live them"
+        },
+        {
+           "title":"Gilles Deleuze",
+           "desc":"If youre trapped in the dream of the Other youre fucked"
+        },
+        {
+           "title":"Mary E Pearson",
+           "desc":"It can take years to mold a dream It takes only a fraction of a second for it to be shattered"
+        },
+        {
+           "title":"Roy T Bennett",
+           "desc":"Dream your own dreams achieve your own goals Your journey is your own and unique"
+        }
+     ]
+}

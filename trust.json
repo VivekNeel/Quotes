@@ -1,0 +1,57 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+            "title": "William Shakespeare",
+            "desc": "Love all, trust a few, do wrong to none"
+        },
+        {
+            "title": "Friedrich Nietzsche",
+            "desc": "I'm not upset that you lied to me. I'm upset that from now on I can't believe you"
+        },
+        {
+            "title": "JM Barrie",
+            "desc": "All the world is made of faith and trust and pixie dust"
+        },
+        {
+            "title": "Ernest Hemingway",
+            "desc": "The best way to find out if you can trust somebody is to trust them"
+        },
+        {
+            "title": "Maya Angelou",
+            "desc": "Have enough courage to trust love one more time and always one more time"
+        },
+        {
+            "title": "Corrie ten Boom",
+            "desc": "Never be afraid to trust an unknown future to a known God"
+        },
+        {
+            "title": "Lady Gaga",
+            "desc": "Trust is like a mirror you can fix it if it's broken, but you can still see the crack in that mother fuckers reflection"
+        },
+        {
+            "title": "David Levithan",
+            "desc": "It was a mistake you said, But the cruel thing was it felt like the mistake was mine for trusting you"
+        },
+        {
+            "title": "Paulo Coelho",
+            "desc": "None of us knows what might happen even the next minute, yet still we go forward. Because we trust, Because we have Faith"
+        },
+        {
+            "title": "Suzanne Collins",
+            "desc": "For there to be betrayal there would have to have been trust first"
+        },
+        {
+            "title": "George MacDonald",
+            "desc": "To be trusted is a greater compliment than being loved"
+        },
+        {
+            "title": "Doris Lessing",
+            "desc": "Trust no friend without faults and love a woman but no angel"
+        },
+        {
+            "title": "Oscar Wilde",
+            "desc": "One should never trust a woman who tells one her real age. A woman who would tell one that would tell one anything"
+        }
+    ]
+}

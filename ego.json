@@ -1,0 +1,53 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+           "title":"Karl Lagerfeld",
+           "desc":"Dont sacrifice yourself too much because if you sacrifice too much theres nothing else you can give and nobody will care for you"
+        },
+        {
+           "title":"John Lennon",
+           "desc":"If being an egomaniac means I believe in what I do and in my art or music then in that respect you can call me that I believe in what I do and Ill say it"
+        },
+        {
+           "title":"Philip K Dick",
+           "desc":"The problem with introspection is that it has no end"
+        },
+        {
+           "title":"Eckhart Tolle",
+           "desc":"Worry pretends to be necessary but serves no useful purpose"
+        },
+        {
+           "title":"John Lennon",
+           "desc":"Part of me suspects that Im a loser and the other part of me thinks Im God Almighty"
+        },
+        {
+           "title":"Herman Melville Bartleby the Scrivener",
+           "desc":"I would prefer not to"
+        },
+        {
+           "title":"Chgyam Trungpa",
+           "desc":"Enlightenment is egos ultimate disappointment"
+        },
+        {
+           "title":"CS Lewis",
+           "desc":"If a man thinks he is not conceited he is very conceited indeed"
+        },
+        {
+           "title":"Vladimir Nabokov",
+           "desc":"I am sufficiently proud of my knowing something to be modest about my not knowing all"
+        },
+        {
+           "title":"John ODonohue",
+           "desc":"The ego is the false selfborn out of fear and defensiveness"
+        },
+        {
+           "title":"Rousseau JeanJacques",
+           "desc":"Or rather let us be more simple and less vain"
+        },
+        {
+           "title":"Patrick Rothfuss",
+           "desc":"She was a wicked thing sometimes All full of want As if the shape of the world depended on her mood As if she were important"
+        }
+     ]
+}

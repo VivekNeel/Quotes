@@ -1,0 +1,69 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+            "title": "sylvia plath",
+            "desc": "Perhaps when we find ourselves wanting everything it is because we are dangerously close to wanting nothing"
+        },
+        {
+            "title": "Roy T Bennett",
+            "desc": "Be grateful for what you already have while you pursue your goals"
+        },
+        {
+            "title": "Ursula K Le Guin",
+            "desc": "It is good to have an end to journey toward but it is the journey that matters in the end"
+        },
+        {
+            "title": "Henry David Thoreau",
+            "desc": "If you have built castles in the air your work need not be lost"
+        },
+        {
+            "title": "Suzanne Collins",
+            "desc": "Aim higher in case you fall short"
+        },
+        {
+            "title": "Albert Einstein",
+            "desc": "If you want to live a happy life tie it to a goal not to people or things"
+        },
+        {
+            "title": "Eleanor Roosevelt",
+            "desc": "Happiness is not a goalits a byproduct of a life well lived"
+        },
+        {
+            "title": "Coco Chanel",
+            "desc": "If you were born without wings do nothing to prevent them from growing"
+        },
+        {
+            "title": "Marilyn Monroe",
+            "desc": "Dreaming about being an actress is more exciting then being one"
+        },
+        {
+            "title": "Laini Taylor",
+            "desc": "It was impossible of course But when did that ever stop any dreamer from dreaming"
+        },
+        {
+            "title": "Dr Roopleen",
+            "desc": "If you have a dream dont just sit there Gather courage to believe that you can succeed and leave no stone unturned to make it a reality"
+        },
+        {
+            "title": "Bruce Lee",
+            "desc": "A goal is not always meant to be reached it often serves simply as something to aim at"
+        },
+        {
+            "title": "Seneca the Younger",
+            "desc": "If a man knows not to which port he sails no wind is favorable"
+        },
+        {
+            "title": "Karen Lamb",
+            "desc": "A year from now you may wish you had started today"
+        },
+        {
+            "title": "Roy T Bennett",
+            "desc": "Dream your own dreams achieve your own goals Your journey is your own and unique"
+        },
+        {
+            "title": "Yogi Berra",
+            "desc": "If you dont know where you are going\nyoull end up someplace else"
+        }
+    ]
+}

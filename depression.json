@@ -1,0 +1,61 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+           "title":"Henry Wadsworth Longfellow",
+           "desc":"Every man has his secret sorrows which the world knows not and often times we call a man cold when he is only sad"
+        },
+        {
+           "title":"Ned Vizzini",
+           "desc":"I didnt want to wake up I was having a much better time asleep And thats really sad It was almost like a reverse nightmare like when you wake up from a nightmare youre so relieved I woke up into a nightmare"
+        },
+        {
+           "title":"Laurell K Hamilton",
+           "desc":"There are wounds that never show on the body that are deeper and more hurtful than anything that bleeds"
+        },
+        {
+           "title":"John Green",
+           "desc":"Whenever you read a cancer booklet or website or whatever they always list depression among the side effects of cancer But in fact depression is not a side effect of cancer Depression is a side effect of dying"
+        },
+        {
+           "title":"Ned Vizzini",
+           "desc":"I cant eat and I cant sleep Im not doing well in terms of being a functional human you know"
+        },
+        {
+           "title":"John Keats",
+           "desc":"Do you not see how necessary a world of pains and troubles is to school an intelligence and make it a soul"
+        },
+        {
+           "title":"Barbara Kingsolver",
+           "desc":"There is no point treating a depressed person as though she were just feeling sad saying There now hang on youll get over it Sadness is more or less like a head cold with patience it passes Depression is like cancer"
+        },
+        {
+           "title":"Fiona Apple",
+           "desc":"When youre surrounded by all these people it can be lonelier than when youre by yourself You can be in a huge crowd but if you dont feel like you can trust anyone or talk to anybody you feel like youre really alone"
+        },
+        {
+           "title":"Dodie Smith",
+           "desc":"Noble deeds and hot baths are the best cures for depression"
+        },
+        {
+           "title":"Elizabeth Wurtzel",
+           "desc":"That is all I want in life for this pain to seem purposeful"
+        },
+        {
+           "title":"Ned Vizzini",
+           "desc":"I waste at least an hour every day lying in bed Then I waste time pacing I waste time thinking I waste time being quiet and not saying anything because Im afraid Ill stutter"
+        },
+        {
+           "title":"Sylvia Plath",
+           "desc":"because wherever I saton the deck of a ship or at a street caf in Paris or BangkokI would be sitting under the same glass bell jar stewing in my own sour air"
+        },
+        {
+           "title":"Andrew Solomon",
+           "desc":"I believe that words are strong that they can overwhelm what we fear when fear seems more awful than life is good"
+        },
+        {
+           "title":"Henry Rollins",
+           "desc":"Ill never forget how the depression and loneliness felt good and bad at the same time Still does"
+        }
+     ]
+}

@@ -1,0 +1,57 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+            "title": "Bill Keane",
+            "desc": "Yesterday is history. tomorrow is a mystery today is a gift of God which is why we call it the present"
+        },
+        {
+            "title": "Stephenie Meyer",
+            "desc": "I like the night. Without the dark we'd never see the stars"
+        },
+        {
+            "title": "William Faulkner",
+            "desc": "You cannot swim for new horizons until you have courage to lose sight of the shore"
+        },
+        {
+            "title": "Anonymous",
+            "desc": "And now these three remain faith, hope and love. But the greatest of these is love"
+        },
+        {
+            "title": "Margaret Mitchell",
+            "desc": "Lifes under no obligation to give us what we expect"
+        },
+        {
+            "title": "Alexander Pope",
+            "desc": "Blessed is he who expects nothing for he shall never be disappointed"
+        },
+        {
+            "title": "Kalu Ndukwe Kalu",
+            "desc": "The things you do for yourself are gone when you are gone. but the things you do for others remain as your legacy"
+        },
+        {
+            "title": "Markus Zusak",
+            "desc": "Maybe everyone can live beyond what theyre capable of"
+        },
+        {
+            "title": "Jos N Harris",
+            "desc": "Tears shed for another person are not a sign of weakness They are a sign of a pure heart"
+        },
+        {
+            "title": "John Guare",
+            "desc": "It's amazing how a little tomorrow can make up for a whole lot of yesterday"
+        },
+        {
+            "title": "Roy T Bennett",
+            "desc": "Never lose hope Storms make people stronger and never last forever"
+        },
+        {
+            "title": "Pablo Neruda",
+            "desc": "You can cut all the flowers but you cannot keep Spring from coming"
+        },
+        {
+            "title": "Maxine Hong Kingston",
+            "desc": "In a time of destruction create something"
+        }
+    ]
+}
