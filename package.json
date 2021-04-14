@@ -1,4 +1,13 @@
 {
   "dependencies": {
-  }
+    "cheerio": "^1.0.0-rc.6",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2"
+  },
+  "name": "Quotes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/VivekNeel/Quotes",
+  "author": "VivekNeel <vivek2neel@gmail.com>",
+  "license": "MIT"
 }

@@ -1,0 +1,69 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+           "title":"Mahatma Gandhi",
+           "desc":"Be the change that you wish to see in the world"
+        },
+        {
+           "title":"Stephen Chbosky",
+           "desc":"Things change And friends leave Life doesnt stop for anybody"
+        },
+        {
+           "title":"Leo Tolstoy",
+           "desc":"Everyone thinks of changing the world but no one thinks of changing himself"
+        },
+        {
+           "title":"Margaret Mead",
+           "desc":"Never doubt that a small group of thoughtful committed citizens can change the world Indeed it is the only thing that ever has"
+        },
+        {
+           "title":"John Green The Fault in Our Stars",
+           "desc":"Grief does not change you Hazel It reveals you"
+        },
+        {
+           "title":"Nelson Mandela",
+           "desc":"Education is the most powerful weapon which you can use to change the world"
+        },
+        {
+           "title":"Roy T Bennett",
+           "desc":"Its only after youve stepped outside your comfort zone that you begin to change grow and transform"
+        },
+        {
+           "title":"Albert Einstein",
+           "desc":"The world as we have created it is a process of our thinking It cannot be changed without changing our thinking"
+        },
+        {
+           "title":"Rumi",
+           "desc":"Yesterday I was clever so I wanted to change the world Today I am wise so I am changing myself"
+        },
+        {
+           "title":"Mary Wollstonecraft Shelley Frankenstein",
+           "desc":"Nothing is so painful to the human mind as a great and sudden change"
+        },
+        {
+           "title":"Raymond Chandler",
+           "desc":"To say goodbye is to die a little"
+        },
+        {
+           "title":"Friedrich Nietzsche",
+           "desc":"The snake which cannot cast its skin has to die As well the minds which are prevented from changing their opinions they cease to be mind"
+        },
+        {
+           "title":"Lemony Snicket",
+           "desc":"Love can change a person the way a parent can change a baby awkwardly and often with a great deal of mess"
+        },
+        {
+           "title":"Roy T Bennett",
+           "desc":"You never change your life until you step out of your comfort zone change begins at the end of your comfort zone"
+        },
+        {
+           "title":"Andy Warhol",
+           "desc":"They always say time changes things but you actually have to change them yourself"
+        },
+        {
+           "title":"Steve Maraboli",
+           "desc":"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you dont"
+        }
+     ]
+}

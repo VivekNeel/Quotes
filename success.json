@@ -1,0 +1,77 @@
+{
+    "version": "1.0.0",
+    "values": [
+        {
+           "title":"Winston S Churchill",
+           "desc":"Success is not final failure is not fatal it is the courage to continue that counts"
+        },
+        {
+           "title":"Herbert Bayard Swope",
+           "desc":"I cant give you a surefire formula for success but I can give you a formula for failure try to please everybody all the time"
+        },
+        {
+           "title":"WC Fields",
+           "desc":"If at first you dont succeed try try again Then quit No use being a damn fool about it"
+        },
+        {
+           "title":"Albert Einstein",
+           "desc":"Try not to become a man of success Rather become a man of value"
+        },
+        {
+           "title":"Herman Melville",
+           "desc":"It is better to fail in originality than to succeed in imitation"
+        },
+        {
+           "title":"W P Kinsella",
+           "desc":"Success is getting what you want happiness is wanting what you get"
+        },
+        {
+           "title":"Roy T Bennett The Light in the Heart",
+           "desc":"Success is not how high you have climbed but how you make a positive difference to the world"
+        },
+        {
+           "title":"Truman Capote",
+           "desc":"Failure is the condiment that gives success its flavor"
+        },
+        {
+           "title":"Salvador Dali",
+           "desc":"Have no fear of perfection  youll never reach it"
+        },
+        {
+           "title":"Winston S Churchill",
+           "desc":"Success is stumbling from failure to failure with no loss of enthusiasm"
+        },
+        {
+           "title":"Bette Midler",
+           "desc":"The worst part of success is trying to find someone who is happy for you"
+        },
+        {
+           "title":"Coco Chanel",
+           "desc":"Dont spend time beating on a wall hoping to transform it into a door"
+        },
+        {
+           "title":"Steve Maraboli",
+           "desc":"Cry Forgive Learn Move on Let your tears water the seeds of your future happiness"
+        },
+        {
+           "title":"Roy T Bennett The Light in the Heart",
+           "desc":"Let the improvement of yourself keep you so busy that you have no time to criticize others"
+        },
+        {
+           "title":"Walt Disney",
+           "desc":"The way to get started is to quit talking and begin doing"
+        },
+        {
+           "title":"Hayley Williams",
+           "desc":"Sometimes it takes a good fall to really know where you stand"
+        },
+        {
+           "title":"Mark Twain",
+           "desc":"All you need in this life is ignorance and confidence then success is sure"
+        },
+        {
+           "title":"Theodore Roosevelt",
+           "desc":"It is hard to fail but it is worse never to have tried to succeed"
+        }
+     ]
+}
